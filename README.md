@@ -2,7 +2,7 @@
 
 Projeto criado durante a realização do curso - Criando um front-end totalmente componentizado na prática com ReactJS, ministrado por Matheus Benites na plataforma da Digital Innovation One.
 
-Aplicação criada utilizando a API pública do github.
+Aplicação criada utilizando a API pública do GitHub.
 
 ### ❗️ Recursos
 - Pesquisar informações por nome de usuário;
